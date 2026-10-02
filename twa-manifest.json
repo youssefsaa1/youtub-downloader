@@ -1,0 +1,28 @@
+{
+  "packageId": "com.tubesave.mobile.downloader",
+  "host": "ais-dev-ixn2jc4mxdafnpakblum2w-108968924031.europe-west2.run.app",
+  "name": "TubeSave Mobile Downloader",
+  "launcherName": "TubeSave",
+  "themeColor": "#0f172a",
+  "navigationColor": "#090d16",
+  "backgroundColor": "#090d16",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "/pwa-512x512.png",
+  "maskableIconUrl": "/pwa-maskable-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "generatorApp": "TubeSave APK Generator v2.4",
+  "webManifestUrl": "/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": false
+    },
+    "playBilling": {
+      "enabled": false
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  }
+}

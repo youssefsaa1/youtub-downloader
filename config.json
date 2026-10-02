@@ -1,0 +1,12 @@
+{
+  "applicationId": "com.tubesave.mobile.downloader",
+  "versionCode": 1,
+  "versionName": "2.4.0",
+  "minSdkVersion": 21,
+  "targetSdkVersion": 34,
+  "permissions": [
+    "android.permission.INTERNET",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.READ_EXTERNAL_STORAGE"
+  ]
+}
